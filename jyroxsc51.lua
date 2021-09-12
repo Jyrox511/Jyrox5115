@@ -1,9 +1,18 @@
-PW = gg.prompt({'ʟᴜᴛғᴇɴ ᴏɴʟɪɴᴇ ɢɪʀɪs ᴋᴇʏɪɴɪᴢɪ ɢɪʀɪɴɪᴢ💸 '},{[1]=''},{[1]='text'})
+PW = gg.prompt({'ʟᴜᴛғᴇɴ ᴋᴜʟʟᴀɴɪᴄɪ ᴀᴅɪɴɪ ɢɪʀɪɴɪᴢ💸 '},{[1]=''},{[1]='text'})
 if not PW then return
 end 
 if PW[1] == "" then os.exit() end
-if PW[1] =="wtMkBRpyHtMkcDF" then 
-gg.alert("ᴋᴇʏɪɴɪᴢ ᴅᴏɢʀᴜ✅\nᴏɴʟɪɴᴇ sᴇʀᴠᴇʀ'ᴀ ʙᴀɢʟᴀɴɪʟɪʏᴏʀ...")
+if PW[1] =="fsm1" then 
+gg.alert("ᴋᴜʟʟᴀɴɪᴄɪ ᴀᴅɪ ᴅᴏɢʀᴜ✅\nʟᴜᴛғᴇɴ sɪғʀᴇʏɪ ɢɪʀɪɴɪᴢ")
+else 
+gg.alert("ʏᴀɴʟɪs ᴋᴇʏ❗\nʟᴜᴛғᴇɴ ᴛᴇʟᴇɢʀᴀᴍ ᴋᴀɴᴀʟɪᴍɪᴢᴀ ɢᴇʟᴇʀᴇᴋ ɢᴜɴᴄᴇʟ sɪғʀᴇʏɪ ᴀʟɪɴɪᴢ !\nᴛᴇʟᴇɢʀᴀᴍ : @ᴊʏʀᴏxᴘᴜʙɢ") return end
+
+PW = gg.prompt({'ʟᴜᴛғᴇɴ sɪғʀᴇʏɪ ɢɪʀɪɴɪᴢ💸 '},{[1]=''},{[1]='text'})
+if not PW then return
+end 
+if PW[1] == "" then os.exit() end
+if PW[1] =="fsm51" then 
+gg.alert("ᴋᴜʟʟᴀɴɪᴄɪ ᴀᴅɪ sɪғʀᴇ ᴅᴏɢʀᴜ✅\nᴏɴʟɪɴᴇ sᴇʀᴠᴇʀ'ᴀ ʙᴀɢʟᴀɴɪʟɪʏᴏʀ...")
 else 
 gg.alert("ʏᴀɴʟɪs ᴋᴇʏ❗\nʟᴜᴛғᴇɴ ᴛᴇʟᴇɢʀᴀᴍ ᴋᴀɴᴀʟɪᴍɪᴢᴀ ɢᴇʟᴇʀᴇᴋ ɢᴜɴᴄᴇʟ sɪғʀᴇʏɪ ᴀʟɪɴɪᴢ !\nᴛᴇʟᴇɢʀᴀᴍ : @ᴊʏʀᴏxᴘᴜʙɢ") return end
 
