@@ -1,1 +1,1 @@
-gg.alert("sonunda oldu amk")
+gg.alert("deneme 1")
