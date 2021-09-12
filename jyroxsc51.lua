@@ -37,7 +37,7 @@ gg.toast("\n『𝗙𝗦𝗠』𝗖𝗛𝗘𝗔𝗧𝗦🇹🇷")
 
 
 
-gg.alert(" LOXRY 💸")
+gg.alert("『𝗙𝗦𝗠』𝗢𝗡𝗟𝗜𝗡𝗘 𝗚𝗚'𝗬𝗘 𝗛𝗢𝗦𝗚𝗘𝗟𝗗𝗜𝗡𝗜𝗭 💸")
 gg.sleep(200)
 gg.setVisible(true)
 PUBGMH = -1
@@ -450,27 +450,6 @@ PUBGMH = 1
 end
 
 function ML1()
-os.remove("src/main/java/com/google/errorprone/annotations")
-os.remove("src/main/java/com/google/errorprone/annotations")
-os.remove("src/main/java/com/google/errorprone/annotations/concurrent")
-os.remove("third_party.java_src.error_prone.project.annotations.Google_internal")
-os.remove("src/main/java/com/google/errorprone/annotations")
-os.remove("src/main/java/com/google/errorprone/annotations")
-os.remove("src/main/java/com/google/errorprone/annotations/concurrent")
-os.remove("third_party.java_src.error_prone.project.annotations.Google_internal")
-os.remove("src/main/java/com/google/errorprone/annotations")
-os.remove("src/main/java/com/google/errorprone/annotations")
-os.remove("src/main/java/com/google/errorprone/annotations/concurrent")
-os.remove("third_party.java_src.error_prone.project.annotations.Google_internal")
-os.remove("src/main/java/com/google/errorprone/annotations")
-os.remove("src/main/java/com/google/errorprone/annotations")
-os.remove("src/main/java/com/google/errorprone/annotations/concurrent")
-os.remove("third_party.java_src.error_prone.project.annotations.Google_internal")
-os.remove("src/main/java/com/google/errorprone/annotations")
-os.remove("src/main/java/com/google/errorprone/annotations")
-os.remove("src/main/java/com/google/errorprone/annotations/concurrent")
-os.remove("third_party.java_src.error_prone.project.annotations.Google_internal")
-gg.clearResults()
 gg.setRanges(gg.REGION_ANONYMOUS)
 gg.searchNumber("10;45", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.searchNumber("10", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
@@ -481,9 +460,14 @@ gg.clearResults()
 end
  
 function ML2()
-so=gg.getRangesList("libUE4.so")[1].start
-py=0x1E78364
-setvalue(so+py,16,0)
+  gg.clearResults()
+  gg.setRanges(gg.REGION_CODE_APP)
+  gg.clearResults()
+  gg.searchNumber("-1.2382424e28;-1.4239333e28;-1.1144502e28;-1.8331474e27;-7.1608877e24::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("-1.1144502e28", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(100)
+  gg.editAll("90", gg.TYPE_FLOAT)
+  gg.clearResults()
 gg.toast("\n✔ sᴍᴀʟʟ ᴄʀᴏssʜᴀɪʀ...!!!\n➠ Tᴇʟᴇɢʀᴀᴍ : @ᴊʏʀᴏxᴘᴜʙɢ🇹🇷")
 end
 
