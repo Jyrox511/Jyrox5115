@@ -1,20 +1,30 @@
-PW = gg.prompt({'ʟᴜᴛғᴇɴ ᴋᴜʟʟᴀɴɪᴄɪ ᴀᴅɪɴɪ ɢɪʀɪɴɪᴢ💸 '},{[1]=''},{[1]='text'})
-if not PW then return
-end 
-if PW[1] == "" then os.exit() end
-if PW[1] =="fsm1" then 
-gg.alert("ᴋᴜʟʟᴀɴɪᴄɪ ᴀᴅɪ ᴅᴏɢʀᴜ✅\nʟᴜᴛғᴇɴ sɪғʀᴇʏɪ ɢɪʀɪɴɪᴢ")
-else 
-gg.alert("ʏᴀɴʟɪs ᴋᴇʏ❗\nʟᴜᴛғᴇɴ ᴛᴇʟᴇɢʀᴀᴍ ᴋᴀɴᴀʟɪᴍɪᴢᴀ ɢᴇʟᴇʀᴇᴋ ɢᴜɴᴄᴇʟ sɪғʀᴇʏɪ ᴀʟɪɴɪᴢ !\nᴛᴇʟᴇɢʀᴀᴍ : @ᴊʏʀᴏxᴘᴜʙɢ") return end
-
-PW = gg.prompt({'ʟᴜᴛғᴇɴ sɪғʀᴇʏɪ ɢɪʀɪɴɪᴢ💸 '},{[1]=''},{[1]='text'})
-if not PW then return
-end 
-if PW[1] == "" then os.exit() end
-if PW[1] =="fsm51" then 
-gg.alert("ᴋᴜʟʟᴀɴɪᴄɪ ᴀᴅɪ sɪғʀᴇ ᴅᴏɢʀᴜ✅\nᴏɴʟɪɴᴇ sᴇʀᴠᴇʀ'ᴀ ʙᴀɢʟᴀɴɪʟɪʏᴏʀ...")
-else 
-gg.alert("ʏᴀɴʟɪs ᴋᴇʏ❗\nʟᴜᴛғᴇɴ ᴛᴇʟᴇɢʀᴀᴍ ᴋᴀɴᴀʟɪᴍɪᴢᴀ ɢᴇʟᴇʀᴇᴋ ɢᴜɴᴄᴇʟ sɪғʀᴇʏɪ ᴀʟɪɴɪᴢ !\nᴛᴇʟᴇɢʀᴀᴍ : @ᴊʏʀᴏxᴘᴜʙɢ") return end
+PW = gg.prompt({
+    "ᴋᴜʟʟᴀɴɪᴄɪ ᴀᴅɪ :",
+    "sɪғʀᴇ :"
+  }, {
+    [1] = "Jyrox",
+    [2] = "VaRuS"
+  }, {
+    [1] = "text",
+    [2] = "text"
+  })
+  if not PW then
+    return
+  end
+  if PW[1] == "fsm51" then
+    gg.toast("ᴋᴜʟʟᴀɴɪᴄɪ ᴀᴅɪ ᴅᴏɢʀᴜ✅")
+  else
+    gg.setVisible(true)
+    gg.alert("𝗬𝗮𝗻𝗹𝗶𝘀 𝗞𝘂𝗹𝗹𝗮𝗻𝗶𝗰𝗶 𝗔𝗱𝗶❗\n\nʟᴜᴛғᴇɴ ᴛᴇʟᴇɢʀᴀᴍ ᴋᴀɴᴀʟɪᴍɪᴢᴀ ɢᴇʟᴇʀᴇᴋ ɢᴜɴᴄᴇʟ sɪғʀᴇʏɪ ᴀʟɪɴɪᴢ !\nᴛᴇʟᴇɢʀᴀᴍ : @ᴊʏʀᴏxᴘᴜʙɢ ")
+    return
+  end
+    if PW[2] == "fsm01" then
+    gg.toast("sɪғʀᴇ ᴅᴏɢʀᴜ✅")
+  else
+    gg.setVisible(true)
+    gg.alert(" 𝗬𝗮𝗻𝗹𝗶𝘀 𝗦𝗶𝗳𝗿𝗲❗\n\nʟᴜᴛғᴇɴ ᴛᴇʟᴇɢʀᴀᴍ ᴋᴀɴᴀʟɪᴍɪᴢᴀ ɢᴇʟᴇʀᴇᴋ ɢᴜɴᴄᴇʟ sɪғʀᴇʏɪ ᴀʟɪɴɪᴢ !\nᴛᴇʟᴇɢʀᴀᴍ : @ᴊʏʀᴏxᴘᴜʙɢ")
+    return
+  end
 
 
 
