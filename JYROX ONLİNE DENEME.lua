@@ -1,1 +1,1 @@
-gg.alert("deneme 2")
+gg.alert("deneme 5")
