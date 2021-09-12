@@ -37,7 +37,7 @@ gg.toast("\n『𝗙𝗦𝗠』𝗖𝗛𝗘𝗔𝗧𝗦🇹🇷")
 
 
 
-gg.alert("JOXRY 💸")
+gg.alert(" LOXRY 💸")
 gg.sleep(200)
 gg.setVisible(true)
 PUBGMH = -1
